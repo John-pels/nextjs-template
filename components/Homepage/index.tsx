@@ -5,7 +5,7 @@ const LandingPage = () => {
   return (
     <Layout>
       <Container>
-        <HeroText>Welcome to Konverze!</HeroText>
+        <HeroText>Welcome!</HeroText>
       </Container>
     </Layout>
   )
